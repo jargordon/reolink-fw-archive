@@ -1,0 +1,1697 @@
+{
+    "bb360e1a33376e636af65bb458728325fa8a8ee70832d93a649d9c10696a5e0c": {
+        "info": {
+            "firmware_version_prefix": "v2.0.0",
+            "board_type": "IPC_51516M5M",
+            "board_name": "IPC_51516M5M",
+            "build_date": "190311",
+            "display_type_info": "RLC-410-5MP",
+            "detail_machine_type": "IPC_51516M5M",
+            "type": "IPC",
+            "version_file": "354_19031100",
+            "os": "Linux",
+            "architecture": "MIPS",
+            "kernel_image_name": "Linux-4.1.0",
+            "uboot_version": "U-Boot 2014.07 (Jan 24 2019 - 15:18:03)",
+            "uboot_compiler": "mipsel-24kec-linux-uclibc-gcc.br_real (Buildroot 2015.11.1-00003-gfd1edb1) 4.9.3",
+            "uboot_linker": "GNU ld (GNU Binutils) 2.24",
+            "linux_banner": "Linux version 4.1.0 (lwy@ubuntu) (gcc version 4.9.3 (Buildroot 2015.11.1-00003-gfd1edb1) ) #1 PREEMPT Thu Jan 24 15:17:33 CST 2019",
+            "board": "Novatek NA51023 evaluation board",
+            "board_vendor": "Novatek",
+            "filesystems": [
+                {
+                    "name": "fs",
+                    "type": "squashfs"
+                }
+            ]
+        },
+        "download": [
+            "https://s3.amazonaws.com/reolink-storage/website/firmware/20190311firmware/RLC-410-5MP_354_19031100.zip"
+        ],
+        "model_id": 52,
+        "hw_ver_id": 82
+    },
+    "cef97b10c603b0d5c96136d3d3dcebb03de05e687f1fd77071eea182df6f2307": {
+        "info": {
+            "firmware_version_prefix": "v3.0.0",
+            "board_type": "IPC_51316M",
+            "board_name": "IPC_51316M",
+            "build_date": "201211",
+            "display_type_info": "RLC-410",
+            "detail_machine_type": "IPC_51316M",
+            "type": "IPC",
+            "version_file": "136_20121100",
+            "os": "Linux",
+            "architecture": "MIPS",
+            "kernel_image_name": "Linux-4.1.0",
+            "uboot_version": "U-Boot 2014.07 (Aug 27 2020 - 18:10:33)",
+            "uboot_compiler": "mipsel-24kec-linux-uclibc-gcc.br_real (Buildroot 2015.11.1-00003-gfd1edb1) 4.9.3",
+            "uboot_linker": "GNU ld (GNU Binutils) 2.24",
+            "linux_banner": "Linux version 4.1.0 (lwy@ubuntu) (gcc version 4.9.3 (Buildroot 2015.11.1-00003-gfd1edb1) ) #1 PREEMPT Thu Dec 27 17:50:56 CST 2018",
+            "board": "Novatek NA51023 evaluation board",
+            "board_vendor": "Novatek",
+            "filesystems": [
+                {
+                    "name": "fs",
+                    "type": "squashfs"
+                }
+            ]
+        },
+        "download": [
+            "https://reolink-storage.s3.amazonaws.com/website/firmware/20201211firmware/RLC-410_136_20121100.zip",
+            "https://home-cdn.reolink.us/wp-content/uploads/2020/12/171217251608207445.3523.zip"
+        ],
+        "model_id": 52,
+        "hw_ver_id": 79
+    },
+    "c89e93897e4f204b6e008708dc321d34c79ac58daa1116585e6c9a1c3faba69a": {
+        "info": {
+            "firmware_version_prefix": "v3.0.0",
+            "board_type": "IPC_51316M",
+            "board_name": "IPC_51316M",
+            "build_date": "201119",
+            "display_type_info": "RLC-410",
+            "detail_machine_type": "IPC_51316M",
+            "type": "IPC",
+            "version_file": "121_20111900",
+            "os": "Linux",
+            "architecture": "MIPS",
+            "kernel_image_name": "Linux-4.1.0",
+            "uboot_version": "U-Boot 2014.07 (Aug 27 2020 - 18:10:33)",
+            "uboot_compiler": "mipsel-24kec-linux-uclibc-gcc.br_real (Buildroot 2015.11.1-00003-gfd1edb1) 4.9.3",
+            "uboot_linker": "GNU ld (GNU Binutils) 2.24",
+            "linux_banner": "Linux version 4.1.0 (lwy@ubuntu) (gcc version 4.9.3 (Buildroot 2015.11.1-00003-gfd1edb1) ) #1 PREEMPT Thu Dec 27 17:50:56 CST 2018",
+            "board": "Novatek NA51023 evaluation board",
+            "board_vendor": "Novatek",
+            "filesystems": [
+                {
+                    "name": "fs",
+                    "type": "squashfs"
+                }
+            ]
+        },
+        "download": [
+            "https://home-cdn.reolink.us/files/firmware/20201119firmware+/RLC-410_121_20111900.zip"
+        ],
+        "model_id": 52,
+        "hw_ver_id": 79
+    },
+    "a132c167871e7816bbfd61ee0d8c977e4119992d6eea9a0e7f04525ab2d678f0": {
+        "info": {
+            "firmware_version_prefix": "v2.0.0",
+            "board_type": "IPC_51316M",
+            "board_name": "IPC_51316M",
+            "build_date": "190311",
+            "display_type_info": "RLC-410",
+            "detail_machine_type": "IPC_51316M",
+            "type": "IPC",
+            "version_file": "354_19031110",
+            "os": "Linux",
+            "architecture": "MIPS",
+            "kernel_image_name": "Linux-4.1.0",
+            "uboot_version": "U-Boot 2014.07 (Dec 27 2018 - 17:51:18)",
+            "uboot_compiler": "mipsel-24kec-linux-uclibc-gcc.br_real (Buildroot 2015.11.1-00003-gfd1edb1) 4.9.3",
+            "uboot_linker": "GNU ld (GNU Binutils) 2.24",
+            "linux_banner": "Linux version 4.1.0 (lwy@ubuntu) (gcc version 4.9.3 (Buildroot 2015.11.1-00003-gfd1edb1) ) #1 PREEMPT Thu Dec 27 17:50:56 CST 2018",
+            "board": "Novatek NA51023 evaluation board",
+            "board_vendor": "Novatek",
+            "filesystems": [
+                {
+                    "name": "fs",
+                    "type": "squashfs"
+                }
+            ]
+        },
+        "download": [
+            "https://s3.amazonaws.com/reolink-storage/website/firmware/20190311firmware/RLC-410_354_19031110.zip"
+        ],
+        "model_id": 52,
+        "hw_ver_id": 79
+    },
+    "23ef0a9a67fc293b65452fb34b75284d24d71c0487fe3a7f3b2b9b3cd28a0e31": {
+        "info": {
+            "firmware_version_prefix": "v3.0.0",
+            "board_type": "IPC_523128M8MP",
+            "board_name": "IPC_523128M8MP",
+            "build_date": "210108",
+            "display_type_info": "RLC-810A",
+            "detail_machine_type": "IPC_523128M8MP",
+            "type": "IPC",
+            "version_file": "160_21010803",
+            "os": "Linux",
+            "architecture": "ARM",
+            "kernel_image_name": "Linux-4.19.91",
+            "uboot_version": "U-Boot 2019.04 (Jan 07 2021 - 18:25:25 +0800)",
+            "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2019.05.2) 6.5.0",
+            "uboot_linker": "GNU ld (GNU Binutils) 2.31.1",
+            "linux_banner": "Linux version 4.19.91 (mdq@ubuntu) (gcc version 6.5.0 (Buildroot 2019.05.2)) #1 PREEMPT Tue Dec 15 19:02:17 CST 2020",
+            "board": "Novatek NA51055",
+            "board_vendor": "Novatek",
+            "filesystems": [
+                {
+                    "name": "rootfs",
+                    "type": "ubifs"
+                },
+                {
+                    "name": "app",
+                    "type": "ubifs"
+                }
+            ]
+        },
+        "download": [
+            "https://reolink-storage.s3.amazonaws.com/website/firmware/20210112firmware/RLC-810A_160_21010803.zip"
+        ],
+        "model_id": 9,
+        "hw_ver_id": 9
+    },
+    "c51a9cf3b3a510605dedd82807855a757c2269fe26364be5e6bfc3863e34a014": {
+        "info": {
+            "firmware_version_prefix": "v3.0.0",
+            "board_type": "IPC_523128M8MP",
+            "board_name": "IPC_523128M8MP",
+            "build_date": "201126",
+            "display_type_info": "RLC-810A",
+            "detail_machine_type": "IPC_523128M8MP",
+            "type": "IPC",
+            "version_file": "124_20112603",
+            "os": "Linux",
+            "architecture": "ARM",
+            "kernel_image_name": "Linux-4.19.91",
+            "uboot_version": "U-Boot 2019.04 (Nov 02 2020 - 16:17:00 +0800)",
+            "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2019.05.2) 6.5.0",
+            "uboot_linker": "GNU ld (GNU Binutils) 2.31.1",
+            "linux_banner": "Linux version 4.19.91 (mdq@ubuntu) (gcc version 6.5.0 (Buildroot 2019.05.2)) #1 PREEMPT Wed Nov 18 17:04:38 CST 2020",
+            "board": "Novatek NA51055",
+            "board_vendor": "Novatek",
+            "filesystems": [
+                {
+                    "name": "rootfs",
+                    "type": "ubifs"
+                },
+                {
+                    "name": "app",
+                    "type": "ubifs"
+                }
+            ]
+        },
+        "download": [
+            "https://home-cdn.reolink.us/files/firmware/20201126Firmware/RLC-810A_124_20112603.zip",
+            "https://home-cdn.reolink.us/wp-content/uploads/2020/12/070944151607334255.147.zip"
+        ],
+        "model_id": 9,
+        "hw_ver_id": 9
+    },
+    "52b9dbc0d8513201f50d6369f75c8829f2f1e5f1a3682e03f9f7a03c5992ed81": {
+        "info": {
+            "firmware_version_prefix": "v3.0.0",
+            "board_type": "IPC_523128M8MP",
+            "board_name": "IPC_523128M8MP",
+            "build_date": "210121",
+            "display_type_info": "RLC-810A",
+            "detail_machine_type": "IPC_523128M8MP",
+            "type": "IPC",
+            "version_file": "177_21012103",
+            "os": "Linux",
+            "architecture": "ARM",
+            "kernel_image_name": "Linux-4.19.91",
+            "uboot_version": "U-Boot 2019.04 (Jan 13 2021 - 15:54:51 +0800)",
+            "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2019.05.2) 6.5.0",
+            "uboot_linker": "GNU ld (GNU Binutils) 2.31.1",
+            "linux_banner": "Linux version 4.19.91 (mdq@ubuntu) (gcc version 6.5.0 (Buildroot 2019.05.2)) #1 PREEMPT Tue Dec 15 19:02:17 CST 2020",
+            "board": "Novatek NA51055",
+            "board_vendor": "Novatek",
+            "filesystems": [
+                {
+                    "name": "rootfs",
+                    "type": "ubifs"
+                },
+                {
+                    "name": "app",
+                    "type": "ubifs"
+                }
+            ]
+        },
+        "download": [
+            "https://reolink-storage.s3.amazonaws.com/website/firmware/20210121firmware/RLC_810A177_21012103.zip",
+            "https://home-cdn.reolink.us/wp-content/uploads/2021/01/290759321611907172.1659.zip"
+        ],
+        "model_id": 9,
+        "hw_ver_id": 9
+    },
+    "4f9dd597d1377e80c48f3f4f43ff153e8b72eafbdffad6a74da6ae23cc8c1d17": {
+        "info": {
+            "firmware_version_prefix": "v3.0.0",
+            "board_type": "IPC_51316M",
+            "board_name": "IPC_51316M",
+            "build_date": "200710",
+            "display_type_info": "RLC-410",
+            "detail_machine_type": "IPC_51316M",
+            "type": "IPC",
+            "version_file": "65_20071000",
+            "os": "Linux",
+            "architecture": "MIPS",
+            "kernel_image_name": "Linux-4.1.0",
+            "uboot_version": "U-Boot 2014.07 (Dec 27 2018 - 17:51:18)",
+            "uboot_compiler": "mipsel-24kec-linux-uclibc-gcc.br_real (Buildroot 2015.11.1-00003-gfd1edb1) 4.9.3",
+            "uboot_linker": "GNU ld (GNU Binutils) 2.24",
+            "linux_banner": "Linux version 4.1.0 (lwy@ubuntu) (gcc version 4.9.3 (Buildroot 2015.11.1-00003-gfd1edb1) ) #1 PREEMPT Thu Dec 27 17:50:56 CST 2018",
+            "board": "Novatek NA51023 evaluation board",
+            "board_vendor": "Novatek",
+            "filesystems": [
+                {
+                    "name": "fs",
+                    "type": "squashfs"
+                }
+            ]
+        },
+        "download": [
+            "https://reolink-storage.s3.amazonaws.com/website/firmware/20200721firmware/RLC-410-4MP_65_20071000.zip"
+        ],
+        "model_id": 52,
+        "hw_ver_id": 79
+    },
+    "cf92becbdeb6eb0ecb812acdb5685313a5a3406be241e80ac197225723398179": {
+        "info": {
+            "firmware_version_prefix": "v2.0.0",
+            "board_type": "IPC_3816M",
+            "board_name": "IPC_3816M",
+            "build_date": "190321",
+            "display_type_info": "RLC-410",
+            "detail_machine_type": "IPC_3816M",
+            "type": "IPC",
+            "version_file": "1441_19032101",
+            "os": "Linux",
+            "architecture": "ARM",
+            "kernel_image_name": "gm813x",
+            "uboot_version": "U-Boot 2013.01-svn11 (Jun 29 2016 - 13:43:31)",
+            "uboot_compiler": "arm-unknown-linux-uclibcgnueabi-gcc (Buildroot 2012.02) 4.4.0 20100318 (experimental)",
+            "uboot_linker": "GNU ld (GNU Binutils) 2.21.1",
+            "linux_banner": "Linux version 3.3.0 (lwy@localhost.localdomain) (gcc version 4.4.0 20100318 (experimental) (Buildroot 2012.02) ) #113 PREEMPT Sat Oct 8 17:47:38 CST 2016",
+            "board": null,
+            "board_vendor": "Grain Media",
+            "filesystems": [
+                {
+                    "name": "fs",
+                    "type": "squashfs"
+                }
+            ]
+        },
+        "download": [
+            "https://s3.amazonaws.com/reolink-storage/website/firmware/20190321firmware/RLC-410_1441_19032101.zip",
+            "https://www.dropbox.com/s/0i00nzgce1y5shh/RLC-410_1441_19032101%20%281%29.zip?dl=1"
+        ],
+        "model_id": 52,
+        "hw_ver_id": 100019
+    },
+    "80d34d4bf853d57f0a5a227fde37cefd17b25f06ad1537ea244e2d4a88b6ef69": {
+        "info": {
+            "firmware_version_prefix": "v3.0.0",
+            "board_type": "IPC_51516M5M",
+            "board_name": "IPC_51516M5M",
+            "build_date": "200710",
+            "display_type_info": "RLC-410-5MP",
+            "detail_machine_type": "IPC_51516M5M",
+            "type": "IPC",
+            "version_file": "65_20071000",
+            "os": "Linux",
+            "architecture": "MIPS",
+            "kernel_image_name": "Linux-4.1.0",
+            "uboot_version": "U-Boot 2014.07 (Feb 26 2019 - 18:20:07)",
+            "uboot_compiler": "mipsel-24kec-linux-uclibc-gcc.br_real (Buildroot 2015.11.1-00003-gfd1edb1) 4.9.3",
+            "uboot_linker": "GNU ld (GNU Binutils) 2.24",
+            "linux_banner": "Linux version 4.1.0 (lwy@ubuntu) (gcc version 4.9.3 (Buildroot 2015.11.1-00003-gfd1edb1) ) #1 PREEMPT Tue Feb 26 18:19:48 CST 2019",
+            "board": "Novatek NA51023 evaluation board",
+            "board_vendor": "Novatek",
+            "filesystems": [
+                {
+                    "name": "fs",
+                    "type": "squashfs"
+                }
+            ]
+        },
+        "download": [
+            "https://reolink-storage.s3.amazonaws.com/website/firmware/20200721firmware/RLC-410-5MP_65_20071000.zip"
+        ],
+        "model_id": 52,
+        "hw_ver_id": 82
+    },
+    "28807f175605154adb2c364ca60411e15dc7b69e9bf61b56f802d196ab40e828": {
+        "info": {
+            "firmware_version_prefix": "v3.0.0",
+            "board_type": "IPC_51516M5M",
+            "board_name": "IPC_51516M5M",
+            "build_date": "201211",
+            "display_type_info": "RLC-410-5MP",
+            "detail_machine_type": "IPC_51516M5M",
+            "type": "IPC",
+            "version_file": "136_20121100",
+            "os": "Linux",
+            "architecture": "MIPS",
+            "kernel_image_name": "Linux-4.1.0",
+            "uboot_version": "U-Boot 2014.07 (Feb 26 2019 - 18:20:07)",
+            "uboot_compiler": "mipsel-24kec-linux-uclibc-gcc.br_real (Buildroot 2015.11.1-00003-gfd1edb1) 4.9.3",
+            "uboot_linker": "GNU ld (GNU Binutils) 2.24",
+            "linux_banner": "Linux version 4.1.0 (lwy@ubuntu) (gcc version 4.9.3 (Buildroot 2015.11.1-00003-gfd1edb1) ) #1 PREEMPT Tue Feb 26 18:19:48 CST 2019",
+            "board": "Novatek NA51023 evaluation board",
+            "board_vendor": "Novatek",
+            "filesystems": [
+                {
+                    "name": "fs",
+                    "type": "squashfs"
+                }
+            ]
+        },
+        "download": [
+            "https://home-cdn.reolink.us/files/firmware/20201211firmware/RLC-410-5MP_136_20121100.zip",
+            "https://home-cdn.reolink.us/wp-content/uploads/2020/12/171226261608207986.0292.zip"
+        ],
+        "model_id": 52,
+        "hw_ver_id": 82
+    },
+    "ae0356ecaa2c2812a1044c15d259cb5267dafb308c149e405b906157f044d301": {
+        "info": {
+            "firmware_version_prefix": "v2.0.0",
+            "board_type": "IPC_51516M5M",
+            "board_name": "IPC_51516M5M",
+            "build_date": "190614",
+            "display_type_info": "RLC-410-5MP",
+            "detail_machine_type": "IPC_51516M5M",
+            "type": "IPC",
+            "version_file": "448_19061407",
+            "os": "Linux",
+            "architecture": "MIPS",
+            "kernel_image_name": "Linux-4.1.0",
+            "uboot_version": "U-Boot 2014.07 (Feb 26 2019 - 18:20:07)",
+            "uboot_compiler": "mipsel-24kec-linux-uclibc-gcc.br_real (Buildroot 2015.11.1-00003-gfd1edb1) 4.9.3",
+            "uboot_linker": "GNU ld (GNU Binutils) 2.24",
+            "linux_banner": "Linux version 4.1.0 (lwy@ubuntu) (gcc version 4.9.3 (Buildroot 2015.11.1-00003-gfd1edb1) ) #1 PREEMPT Tue Feb 26 18:19:48 CST 2019",
+            "board": "Novatek NA51023 evaluation board",
+            "board_vendor": "Novatek",
+            "filesystems": [
+                {
+                    "name": "fs",
+                    "type": "squashfs"
+                }
+            ]
+        },
+        "download": [
+            "https://reolink-storage.s3.amazonaws.com/website/firmware/20190614firmware/RLC-410-5MP_448_19061407.zip"
+        ],
+        "model_id": 52,
+        "hw_ver_id": 82
+    },
+    "7355a391cafbfeb6cb5945ce12be6d10d1edb2956b5f04f7b8f556f35337399d": {
+        "info": {
+            "firmware_version_prefix": "v3.0.0",
+            "board_type": "IPC_51516M5M",
+            "board_name": "IPC_51516M5M",
+            "build_date": "201031",
+            "display_type_info": "RLC-410-5MP",
+            "detail_machine_type": "IPC_51516M5M",
+            "type": "IPC",
+            "version_file": "116_20103100",
+            "os": "Linux",
+            "architecture": "MIPS",
+            "kernel_image_name": "Linux-4.1.0",
+            "uboot_version": "U-Boot 2014.07 (Feb 26 2019 - 18:20:07)",
+            "uboot_compiler": "mipsel-24kec-linux-uclibc-gcc.br_real (Buildroot 2015.11.1-00003-gfd1edb1) 4.9.3",
+            "uboot_linker": "GNU ld (GNU Binutils) 2.24",
+            "linux_banner": "Linux version 4.1.0 (lwy@ubuntu) (gcc version 4.9.3 (Buildroot 2015.11.1-00003-gfd1edb1) ) #1 PREEMPT Tue Feb 26 18:19:48 CST 2019",
+            "board": "Novatek NA51023 evaluation board",
+            "board_vendor": "Novatek",
+            "filesystems": [
+                {
+                    "name": "fs",
+                    "type": "squashfs"
+                }
+            ]
+        },
+        "download": [
+            "https://home-cdn.reolink.us/files/firmware/20201031firmware/RLC-410-5MP_116_20103102.zip"
+        ],
+        "model_id": 52,
+        "hw_ver_id": 82
+    },
+    "8d3dfbbedc95ea6e2ab81a8566b335d1bd62facc1a0c3ea5086872709d7df4f1": {
+        "info": {
+            "firmware_version_prefix": "v3.0.0",
+            "board_type": "IPC_515B16M5M",
+            "board_name": "IPC_515B16M5M",
+            "build_date": "201211",
+            "display_type_info": "RLC-410-5MP",
+            "detail_machine_type": "IPC_515B16M5M",
+            "type": "IPC",
+            "version_file": "136_20121100",
+            "os": "Linux",
+            "architecture": "MIPS",
+            "kernel_image_name": "Linux-4.1.0",
+            "uboot_version": "U-Boot 2014.07 (Sep 04 2020 - 14:18:22)",
+            "uboot_compiler": "mipsel-24kec-linux-uclibc-gcc.br_real (Buildroot 2015.11.1-00003-gfd1edb1) 4.9.3",
+            "uboot_linker": "GNU ld (GNU Binutils) 2.24",
+            "linux_banner": "Linux version 4.1.0 (xzq@ubuntu) (gcc version 4.9.3 (Buildroot 2015.11.1-00003-gfd1edb1) ) #1 PREEMPT Fri Sep 4 14:18:00 CST 2020",
+            "board": "Novatek NA51023 evaluation board",
+            "board_vendor": "Novatek",
+            "filesystems": [
+                {
+                    "name": "fs",
+                    "type": "squashfs"
+                }
+            ]
+        },
+        "download": [
+            "https://reolink-storage.s3.amazonaws.com/website/firmware/20210106+firmware/RLC-410-5MP_v300136_20121100.zip",
+            "https://home-cdn.reolink.us/wp-content/uploads/2020/12/290909151609232955.3772.zip"
+        ],
+        "model_id": 52,
+        "hw_ver_id": 130
+    },
+    "e8eaa64a9d6872f99dfc6b2a2e4bebe36cbbe4cdc2e707eace7b7069366cc4d6": {
+        "info": {
+            "firmware_version_prefix": "v2.0.0",
+            "board_type": "IPC_51316M",
+            "board_name": "IPC_51316M",
+            "build_date": "190614",
+            "display_type_info": "RLC-410",
+            "detail_machine_type": "IPC_51316M",
+            "type": "IPC",
+            "version_file": "448_19061402",
+            "os": "Linux",
+            "architecture": "MIPS",
+            "kernel_image_name": "Linux-4.1.0",
+            "uboot_version": "U-Boot 2014.07 (Dec 27 2018 - 17:51:18)",
+            "uboot_compiler": "mipsel-24kec-linux-uclibc-gcc.br_real (Buildroot 2015.11.1-00003-gfd1edb1) 4.9.3",
+            "uboot_linker": "GNU ld (GNU Binutils) 2.24",
+            "linux_banner": "Linux version 4.1.0 (lwy@ubuntu) (gcc version 4.9.3 (Buildroot 2015.11.1-00003-gfd1edb1) ) #1 PREEMPT Thu Dec 27 17:50:56 CST 2018",
+            "board": "Novatek NA51023 evaluation board",
+            "board_vendor": "Novatek",
+            "filesystems": [
+                {
+                    "name": "fs",
+                    "type": "squashfs"
+                }
+            ]
+        },
+        "download": [
+            "https://reolink-storage.s3.amazonaws.com/website/firmware/20190614firmware/RLC-410_448_19061402(1).zip"
+        ],
+        "model_id": 52,
+        "hw_ver_id": 79
+    },
+    "191477612fb820dbc7ae72288acd6caa011385f771e4efa49fd9d05be7b2438a": {
+        "info": {
+            "firmware_version_prefix": "v2.0.0",
+            "board_type": "IPC_3816M",
+            "board_name": "IPC_3816M",
+            "build_date": "180207",
+            "display_type_info": "RLC-410",
+            "detail_machine_type": "IPC_3816M",
+            "type": "IPC",
+            "version_file": "1288_18020701",
+            "os": "Linux",
+            "architecture": "ARM",
+            "kernel_image_name": "gm813x",
+            "uboot_version": "U-Boot 2013.01-svn11 (Jun 29 2016 - 13:43:31)",
+            "uboot_compiler": "arm-unknown-linux-uclibcgnueabi-gcc (Buildroot 2012.02) 4.4.0 20100318 (experimental)",
+            "uboot_linker": "GNU ld (GNU Binutils) 2.21.1",
+            "linux_banner": "Linux version 3.3.0 (lwy@localhost.localdomain) (gcc version 4.4.0 20100318 (experimental) (Buildroot 2012.02) ) #113 PREEMPT Sat Oct 8 17:47:38 CST 2016",
+            "board": null,
+            "board_vendor": "Grain Media",
+            "filesystems": [
+                {
+                    "name": "fs",
+                    "type": "squashfs"
+                }
+            ]
+        },
+        "download": [
+            "https://s3.amazonaws.com/reolink-storage/website/firmware/20180402firmware/RLC-410_1288_18020701.zip",
+            "https://cdn.reolink.com/files/firmware/20180402firmware/RLC-410_1288_18020701.zip",
+            "https://home-cdn.reolink.us/files/firmware/20180402firmware/RLC-410_1288_18020701.zip"
+        ],
+        "model_id": 52,
+        "hw_ver_id": 100019
+    },
+    "e351aa57d8f58ac7b397a09a2b666d6d3b56aa3d1eba5a99cde0255f461c9177": {
+        "info": {
+            "firmware_version_prefix": "v2.0.0",
+            "board_type": "IPC_3816M",
+            "board_name": "IPC_3816M",
+            "build_date": "170327",
+            "display_type_info": "RLC-410",
+            "detail_machine_type": "IPC_3816M",
+            "type": "IPC",
+            "version_file": "675_17032701",
+            "os": "Linux",
+            "architecture": "ARM",
+            "kernel_image_name": "gm813x",
+            "uboot_version": "U-Boot 2013.01-svn11 (Jun 29 2016 - 13:43:31)",
+            "uboot_compiler": "arm-unknown-linux-uclibcgnueabi-gcc (Buildroot 2012.02) 4.4.0 20100318 (experimental)",
+            "uboot_linker": "GNU ld (GNU Binutils) 2.21.1",
+            "linux_banner": "Linux version 3.3.0 (lwy@localhost.localdomain) (gcc version 4.4.0 20100318 (experimental) (Buildroot 2012.02) ) #113 PREEMPT Sat Oct 8 17:47:38 CST 2016",
+            "board": null,
+            "board_vendor": "Grain Media",
+            "filesystems": [
+                {
+                    "name": "fs",
+                    "type": "squashfs"
+                }
+            ]
+        },
+        "download": [
+            "https://s3.amazonaws.com/reolink-storage/website/firmware/675_170317/RLC-410_675_17032701.zip"
+        ],
+        "model_id": 52,
+        "hw_ver_id": 100019
+    },
+    "66cb15af1b62662a7034f72aadc97ef2e69c3d6ff6fac9e53138a2ca79442563": {
+        "info": {
+            "firmware_version_prefix": "v2.0.0",
+            "board_type": "IPC_3816M",
+            "board_name": "IPC_3816M",
+            "build_date": "170524",
+            "display_type_info": "RLC-410",
+            "detail_machine_type": "IPC_3816M",
+            "type": "IPC",
+            "version_file": "842_17052401",
+            "os": "Linux",
+            "architecture": "ARM",
+            "kernel_image_name": "gm813x",
+            "uboot_version": "U-Boot 2013.01-svn11 (Jun 29 2016 - 13:43:31)",
+            "uboot_compiler": "arm-unknown-linux-uclibcgnueabi-gcc (Buildroot 2012.02) 4.4.0 20100318 (experimental)",
+            "uboot_linker": "GNU ld (GNU Binutils) 2.21.1",
+            "linux_banner": "Linux version 3.3.0 (lwy@localhost.localdomain) (gcc version 4.4.0 20100318 (experimental) (Buildroot 2012.02) ) #113 PREEMPT Sat Oct 8 17:47:38 CST 2016",
+            "board": null,
+            "board_vendor": "Grain Media",
+            "filesystems": [
+                {
+                    "name": "fs",
+                    "type": "squashfs"
+                }
+            ]
+        },
+        "download": [
+            "https://s3.amazonaws.com/reolink-storage/website/firmware/842_170524/RLC-410_842_17052401.zip"
+        ],
+        "model_id": 52,
+        "hw_ver_id": 100019
+    },
+    "21c0d328dffd2b585438a20e0b4189e52f62aa782f655c97cc3e186a5ea1d4f9": {
+        "info": {
+            "firmware_version_prefix": "v2.0.0",
+            "board_type": "IPC_3816M",
+            "board_name": "IPC_3816M",
+            "build_date": "170830",
+            "display_type_info": "RLC-410",
+            "detail_machine_type": "IPC_3816M",
+            "type": "IPC",
+            "version_file": "889_17083001",
+            "os": "Linux",
+            "architecture": "ARM",
+            "kernel_image_name": "gm813x",
+            "uboot_version": "U-Boot 2013.01-svn11 (Jun 29 2016 - 13:43:31)",
+            "uboot_compiler": "arm-unknown-linux-uclibcgnueabi-gcc (Buildroot 2012.02) 4.4.0 20100318 (experimental)",
+            "uboot_linker": "GNU ld (GNU Binutils) 2.21.1",
+            "linux_banner": "Linux version 3.3.0 (lwy@localhost.localdomain) (gcc version 4.4.0 20100318 (experimental) (Buildroot 2012.02) ) #113 PREEMPT Sat Oct 8 17:47:38 CST 2016",
+            "board": null,
+            "board_vendor": "Grain Media",
+            "filesystems": [
+                {
+                    "name": "fs",
+                    "type": "squashfs"
+                }
+            ]
+        },
+        "download": [
+            "https://s3.amazonaws.com/reolink-storage/website/firmware/889_1708/RLC-410_889_17083001.zip"
+        ],
+        "model_id": 52,
+        "hw_ver_id": 100019
+    },
+    "a02ea0323b8cca85eb9031cf36de151cdeadc4a4862d855672bf31663ada975a": {
+        "info": {
+            "firmware_version_prefix": "v2.0.0",
+            "board_type": "IPC_3816M",
+            "board_name": "IPC_3816M",
+            "build_date": "180814",
+            "display_type_info": "RLC-410",
+            "detail_machine_type": "IPC_3816M",
+            "type": "IPC",
+            "version_file": "1389_18081401",
+            "os": "Linux",
+            "architecture": "ARM",
+            "kernel_image_name": "gm813x",
+            "uboot_version": "U-Boot 2013.01-svn11 (Jun 29 2016 - 13:43:31)",
+            "uboot_compiler": "arm-unknown-linux-uclibcgnueabi-gcc (Buildroot 2012.02) 4.4.0 20100318 (experimental)",
+            "uboot_linker": "GNU ld (GNU Binutils) 2.21.1",
+            "linux_banner": "Linux version 3.3.0 (lwy@localhost.localdomain) (gcc version 4.4.0 20100318 (experimental) (Buildroot 2012.02) ) #113 PREEMPT Sat Oct 8 17:47:38 CST 2016",
+            "board": null,
+            "board_vendor": "Grain Media",
+            "filesystems": [
+                {
+                    "name": "fs",
+                    "type": "squashfs"
+                }
+            ]
+        },
+        "download": [
+            "https://s3.amazonaws.com/reolink-storage/website/firmware/20180814firmware/RLC-410_1389_18081401.zip",
+            "https://cdn.reolink.com/files/firmware/20180814firmware/RLC-410_1389_18081401.zip",
+            "https://home-cdn.reolink.us/files/firmware/20180814firmware/RLC-410_1389_18081401.zip"
+        ],
+        "model_id": 52,
+        "hw_ver_id": 100019
+    },
+    "a60a4e05fdb4533509ae9e935d313e96850cb6b2a05be52e0e171aaab15900e7": {
+        "info": {
+            "firmware_version_prefix": "v3.1.0",
+            "board_type": "IPC_523128M8MP",
+            "board_name": "IPC_523128M8MP",
+            "build_date": "220415",
+            "display_type_info": "RLC-810A",
+            "detail_machine_type": "IPC_523128M8MP",
+            "type": "IPC",
+            "version_file": "956_22041503",
+            "os": "Linux",
+            "architecture": "ARM",
+            "kernel_image_name": "Linux-4.19.91",
+            "uboot_version": "U-Boot 2019.04 (Oct 11 2021 - 12:40:43 +0800)",
+            "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2019.05.2) 6.5.0",
+            "uboot_linker": "GNU ld (GNU Binutils) 2.31.1",
+            "linux_banner": "Linux version 4.19.91 (mdq@ubuntu) (gcc version 6.5.0 (Buildroot 2019.05.2)) #1 SMP PREEMPT Sat Jun 19 14:27:40 CST 2021",
+            "board": "Novatek NA51055",
+            "board_vendor": "Novatek",
+            "filesystems": [
+                {
+                    "name": "rootfs",
+                    "type": "ubifs"
+                },
+                {
+                    "name": "app",
+                    "type": "ubifs"
+                }
+            ]
+        },
+        "download": [
+            "https://home-cdn.reolink.us/wp-content/uploads/2022/04/181045241650278724.5249.zip"
+        ],
+        "model_id": 9,
+        "hw_ver_id": 9
+    },
+    "013a12cbf57cec732c61a3677f93135442c55ababfe55556c57965f9040a0b6a": {
+        "info": {
+            "firmware_version_prefix": "v2.0.0",
+            "board_type": "IPC_51516M5M",
+            "board_name": "IPC_51516M5M",
+            "build_date": "200314",
+            "display_type_info": "RLC-410-5MP",
+            "detail_machine_type": "IPC_51516M5M",
+            "type": "IPC",
+            "version_file": "647_20031401",
+            "os": "Linux",
+            "architecture": "MIPS",
+            "kernel_image_name": "Linux-4.1.0",
+            "uboot_version": "U-Boot 2014.07 (Feb 26 2019 - 18:20:07)",
+            "uboot_compiler": "mipsel-24kec-linux-uclibc-gcc.br_real (Buildroot 2015.11.1-00003-gfd1edb1) 4.9.3",
+            "uboot_linker": "GNU ld (GNU Binutils) 2.24",
+            "linux_banner": "Linux version 4.1.0 (lwy@ubuntu) (gcc version 4.9.3 (Buildroot 2015.11.1-00003-gfd1edb1) ) #1 PREEMPT Tue Feb 26 18:19:48 CST 2019",
+            "board": "Novatek NA51023 evaluation board",
+            "board_vendor": "Novatek",
+            "filesystems": [
+                {
+                    "name": "fs",
+                    "type": "squashfs"
+                }
+            ]
+        },
+        "download": [
+            "https://reolink-storage.s3.amazonaws.com/website/firmware/20200314firmware/RLC-410-5MP_647_20031401.zip"
+        ],
+        "model_id": 52,
+        "hw_ver_id": 82
+    },
+    "6ef371a51b61d7b21d8f7016d90b5fc1ed3eaa8a3f30f1e202a3474bfb4807e5": {
+        "info": {
+            "firmware_version_prefix": "v3.0.0",
+            "board_type": "IPC_51516M5M",
+            "board_name": "IPC_51516M5M",
+            "build_date": "200523",
+            "display_type_info": "RLC-410-5MP",
+            "detail_machine_type": "IPC_51516M5M",
+            "type": "IPC",
+            "version_file": "20_20052300",
+            "os": "Linux",
+            "architecture": "MIPS",
+            "kernel_image_name": "Linux-4.1.0",
+            "uboot_version": "U-Boot 2014.07 (Feb 26 2019 - 18:20:07)",
+            "uboot_compiler": "mipsel-24kec-linux-uclibc-gcc.br_real (Buildroot 2015.11.1-00003-gfd1edb1) 4.9.3",
+            "uboot_linker": "GNU ld (GNU Binutils) 2.24",
+            "linux_banner": "Linux version 4.1.0 (lwy@ubuntu) (gcc version 4.9.3 (Buildroot 2015.11.1-00003-gfd1edb1) ) #1 PREEMPT Tue Feb 26 18:19:48 CST 2019",
+            "board": "Novatek NA51023 evaluation board",
+            "board_vendor": "Novatek",
+            "filesystems": [
+                {
+                    "name": "fs",
+                    "type": "squashfs"
+                }
+            ]
+        },
+        "download": [
+            "https://reolink-storage.s3.amazonaws.com/website/firmware/20200523firmware/RLC-410-5MP_20_20052300.zip"
+        ],
+        "model_id": 52,
+        "hw_ver_id": 82
+    },
+    "2620031c055d41200c7971560c2e1ea3c16b02ac0324775fa6bd749354936f6e": {
+        "info": {
+            "firmware_version_prefix": "v3.0.0",
+            "board_type": "IPC_523128M8MP",
+            "board_name": "IPC_523128M8MP",
+            "build_date": "210408",
+            "display_type_info": "RLC-810A",
+            "detail_machine_type": "IPC_523128M8MP",
+            "type": "IPC",
+            "version_file": "250_21040803",
+            "os": "Linux",
+            "architecture": "ARM",
+            "kernel_image_name": "Linux-4.19.91",
+            "uboot_version": "U-Boot 2019.04 (Jan 13 2021 - 15:54:51 +0800)",
+            "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2019.05.2) 6.5.0",
+            "uboot_linker": "GNU ld (GNU Binutils) 2.31.1",
+            "linux_banner": "Linux version 4.19.91 (mdq@ubuntu) (gcc version 6.5.0 (Buildroot 2019.05.2)) #1 PREEMPT Tue Dec 15 19:02:17 CST 2020",
+            "board": "Novatek NA51055",
+            "board_vendor": "Novatek",
+            "filesystems": [
+                {
+                    "name": "rootfs",
+                    "type": "ubifs"
+                },
+                {
+                    "name": "app",
+                    "type": "ubifs"
+                }
+            ]
+        },
+        "download": [
+            "https://home-cdn.reolink.us/wp-content/uploads/2021/06/170832521623918772.091.zip"
+        ],
+        "model_id": 9,
+        "hw_ver_id": 9
+    },
+    "15b5083eaccf809d073af8e35425b4604e23f2f75a86439244df8dd26da0819a": {
+        "info": {
+            "firmware_version_prefix": "v3.0.0",
+            "board_type": "IPC_523128M8MP",
+            "board_name": "IPC_523128M8MP",
+            "build_date": "210730",
+            "display_type_info": "RLC-810A",
+            "detail_machine_type": "IPC_523128M8MP",
+            "type": "IPC",
+            "version_file": "494_21073003",
+            "os": "Linux",
+            "architecture": "ARM",
+            "kernel_image_name": "Linux-4.19.91",
+            "uboot_version": "U-Boot 2019.04 (Jan 13 2021 - 15:54:51 +0800)",
+            "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2019.05.2) 6.5.0",
+            "uboot_linker": "GNU ld (GNU Binutils) 2.31.1",
+            "linux_banner": "Linux version 4.19.91 (mdq@ubuntu) (gcc version 6.5.0 (Buildroot 2019.05.2)) #1 PREEMPT Tue Dec 15 19:02:17 CST 2020",
+            "board": "Novatek NA51055",
+            "board_vendor": "Novatek",
+            "filesystems": [
+                {
+                    "name": "rootfs",
+                    "type": "ubifs"
+                },
+                {
+                    "name": "app",
+                    "type": "ubifs"
+                }
+            ]
+        },
+        "download": [
+            "https://drive.google.com/uc?id=1Muea9bYzb6_0o2afvIBxH9dVfXd7WYEx&confirm=t",
+            "https://home-cdn.reolink.us/wp-content/uploads/2021/08/201015421629454542.8734.zip"
+        ],
+        "model_id": 9,
+        "hw_ver_id": 9
+    },
+    "d68f1b491307dd6cedbf03a16f04bdb26d7069ddf7c9532a4d77f7ce494739e8": {
+        "info": {
+            "firmware_version_prefix": "v3.0.0",
+            "board_type": "IPC_515B16M5M",
+            "board_name": "IPC_515B16M5M",
+            "build_date": "211011",
+            "display_type_info": "RLC-410-5MP",
+            "detail_machine_type": "IPC_515B16M5M",
+            "type": "IPC",
+            "version_file": "625_21101106",
+            "os": "Linux",
+            "architecture": "MIPS",
+            "kernel_image_name": "Linux-4.1.0",
+            "uboot_version": "U-Boot 2014.07 (Sep 04 2020 - 14:18:22)",
+            "uboot_compiler": "mipsel-24kec-linux-uclibc-gcc.br_real (Buildroot 2015.11.1-00003-gfd1edb1) 4.9.3",
+            "uboot_linker": "GNU ld (GNU Binutils) 2.24",
+            "linux_banner": "Linux version 4.1.0 (xzq@ubuntu) (gcc version 4.9.3 (Buildroot 2015.11.1-00003-gfd1edb1) ) #1 PREEMPT Fri Sep 4 14:18:00 CST 2020",
+            "board": "Novatek NA51023 evaluation board",
+            "board_vendor": "Novatek",
+            "filesystems": [
+                {
+                    "name": "fs",
+                    "type": "squashfs"
+                }
+            ]
+        },
+        "download": [
+            "https://drive.google.com/uc?id=1MGcRIKiOusHWERGxuZhL4G0H6GdSQUQe&confirm=t",
+            "https://drive.google.com/uc?id=1QPhxZadDX_HN-qUAYXdnyMAdA5QJ_YAW&confirm=t"
+        ],
+        "model_id": 52,
+        "hw_ver_id": 130,
+        "beta": true
+    },
+    "99b515310706044e0ba3ec4694e7e11e1aabe744d144528a25a3e861f7ead3ab": {
+        "info": {
+            "firmware_version_prefix": "v3.1.0",
+            "board_type": "IPC_523128M8MP",
+            "board_name": "IPC_523128M8MP",
+            "build_date": "210913",
+            "display_type_info": "RLC-810A",
+            "detail_machine_type": "IPC_523128M8MP",
+            "type": "IPC",
+            "version_file": "598_21091303",
+            "os": "Linux",
+            "architecture": "ARM",
+            "kernel_image_name": "Linux-4.19.91",
+            "uboot_version": "U-Boot 2019.04 (Jun 24 2021 - 16:04:54 +0800)",
+            "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2019.05.2) 6.5.0",
+            "uboot_linker": "GNU ld (GNU Binutils) 2.31.1",
+            "linux_banner": "Linux version 4.19.91 (mdq@ubuntu) (gcc version 6.5.0 (Buildroot 2019.05.2)) #1 SMP PREEMPT Sat Jun 19 14:27:40 CST 2021",
+            "board": "Novatek NA51055",
+            "board_vendor": "Novatek",
+            "filesystems": [
+                {
+                    "name": "rootfs",
+                    "type": "ubifs"
+                },
+                {
+                    "name": "app",
+                    "type": "ubifs"
+                }
+            ]
+        },
+        "download": [
+            "https://drive.google.com/uc?id=1TrHuNZC4Vk0DSc8oRa7nvP8XpA7INnL9&confirm=t"
+        ],
+        "model_id": 9,
+        "hw_ver_id": 9,
+        "beta": true
+    },
+    "1929afe7e9cbf776ec69337a6c3f5d9f835519f8b1a89ef211471461544cace8": {
+        "info": {
+            "firmware_version_prefix": "v3.0.0",
+            "board_type": "IPC_51516M5M",
+            "board_name": "IPC_51516M5M",
+            "build_date": "211022",
+            "display_type_info": "RLC-410-5MP",
+            "detail_machine_type": "IPC_51516M5M",
+            "type": "IPC",
+            "version_file": "660_21102203",
+            "os": "Linux",
+            "architecture": "MIPS",
+            "kernel_image_name": "Linux-4.1.0",
+            "uboot_version": "U-Boot 2014.07 (Feb 26 2019 - 18:20:07)",
+            "uboot_compiler": "mipsel-24kec-linux-uclibc-gcc.br_real (Buildroot 2015.11.1-00003-gfd1edb1) 4.9.3",
+            "uboot_linker": "GNU ld (GNU Binutils) 2.24",
+            "linux_banner": "Linux version 4.1.0 (lwy@ubuntu) (gcc version 4.9.3 (Buildroot 2015.11.1-00003-gfd1edb1) ) #1 PREEMPT Tue Feb 26 18:19:48 CST 2019",
+            "board": "Novatek NA51023 evaluation board",
+            "board_vendor": "Novatek",
+            "filesystems": [
+                {
+                    "name": "fs",
+                    "type": "squashfs"
+                }
+            ]
+        },
+        "download": [
+            "https://drive.google.com/uc?id=19mWhnq5P506J2vzFSupzz74CEu_TwpdR&confirm=t"
+        ],
+        "model_id": 52,
+        "hw_ver_id": 82,
+        "beta": true
+    },
+    "276480a08fd3b4d62cbc310688bc147321640520dd7438214f330c08a0a2eb73": {
+        "info": {
+            "firmware_version_prefix": "v3.0.0",
+            "board_type": "DB_566128M5MP_W",
+            "board_name": "DB_566128M5MP_W",
+            "build_date": "221028",
+            "display_type_info": "Reolink Video Doorbell WiFi",
+            "detail_machine_type": "DB_566128M5MP_W",
+            "type": "IPC",
+            "version_file": "1459_22102806",
+            "os": "Linux",
+            "architecture": "ARM",
+            "kernel_image_name": "Linux-4.19.91",
+            "uboot_version": "U-Boot 2019.04 (Sep 21 2022 - 09:41:21 +0800)",
+            "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2020.02.9-3-g58c1c2e-dirty) 8.4.0",
+            "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+            "linux_banner": "Linux version 4.19.91 (ypy@ubuntu) (gcc version 8.4.0 (Buildroot 2020.02.9-3-g58c1c2e-dirty)) #5 PREEMPT Thu Apr 7 12:25:03 CST 2022",
+            "board": "Novatek NA51089",
+            "board_vendor": "Novatek",
+            "filesystems": [
+                {
+                    "name": "rootfs",
+                    "type": "ubifs"
+                },
+                {
+                    "name": "app",
+                    "type": "ubifs"
+                }
+            ]
+        },
+        "download": [
+            "https://drive.google.com/uc?id=1ZAoBVMKyKzr6T6NMoZvI5MT2T4lgYCY_&confirm=t"
+        ],
+        "model_id": 181,
+        "hw_ver_id": 301,
+        "user_hosted_only": true
+    },
+    "a9285cacbbe938ec084bc3fa9ec5dbd214cfbedfc7f7ffce834378c2fd00e3ec": {
+        "info": {
+            "firmware_version_prefix": "v3.0.0",
+            "board_type": "DB_566128M5MP_P",
+            "board_name": "DB_566128M5MP_P",
+            "build_date": "221028",
+            "display_type_info": "Reolink Video Doorbell PoE",
+            "detail_machine_type": "DB_566128M5MP_P",
+            "type": "IPC",
+            "version_file": "1459_22102808",
+            "os": "Linux",
+            "architecture": "ARM",
+            "kernel_image_name": "Linux-4.19.91",
+            "uboot_version": "U-Boot 2019.04 (Sep 21 2022 - 09:41:21 +0800)",
+            "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2020.02.9-3-g58c1c2e-dirty) 8.4.0",
+            "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+            "linux_banner": "Linux version 4.19.91 (ypy@ubuntu) (gcc version 8.4.0 (Buildroot 2020.02.9-3-g58c1c2e-dirty)) #5 PREEMPT Thu Apr 7 12:25:03 CST 2022",
+            "board": "Novatek NA51089",
+            "board_vendor": "Novatek",
+            "filesystems": [
+                {
+                    "name": "rootfs",
+                    "type": "ubifs"
+                },
+                {
+                    "name": "app",
+                    "type": "ubifs"
+                }
+            ]
+        },
+        "download": [
+            "https://drive.google.com/uc?id=1Z5vL1hYEu_mT7Nj0eqTcmm2egwKVqOkh&confirm=t"
+        ],
+        "model_id": 180,
+        "hw_ver_id": 302,
+        "user_hosted_only": true
+    },
+    "5a0fe46e339e2eabb85aeda2905e2a6dba5ad69a355b1d4d5cf301108f56e7f3": {
+        "info": {
+            "firmware_version_prefix": "v3.1.0",
+            "board_type": "IPC_523128M8MP",
+            "board_name": "IPC_523128M8MP",
+            "build_date": "220728",
+            "display_type_info": "RLC-810A",
+            "detail_machine_type": "IPC_523128M8MP",
+            "type": "IPC",
+            "version_file": "1162_22072805",
+            "os": "Linux",
+            "architecture": "ARM",
+            "kernel_image_name": "Linux-4.19.91",
+            "uboot_version": "U-Boot 2019.04 (Oct 11 2021 - 12:40:43 +0800)",
+            "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2019.05.2) 6.5.0",
+            "uboot_linker": "GNU ld (GNU Binutils) 2.31.1",
+            "linux_banner": "Linux version 4.19.91 (mdq@ubuntu) (gcc version 6.5.0 (Buildroot 2019.05.2)) #1 SMP PREEMPT Sat Jun 19 14:27:40 CST 2021",
+            "board": "Novatek NA51055",
+            "board_vendor": "Novatek",
+            "filesystems": [
+                {
+                    "name": "rootfs",
+                    "type": "ubifs"
+                },
+                {
+                    "name": "app",
+                    "type": "ubifs"
+                }
+            ]
+        },
+        "download": [
+            "https://support.reolink.com/attachments/token/bKSdFp6o2FVWqOb0PvEejh7l2/?name=IPC_523128M8MP.1162_22072805.RLC-810A.IMX415.8MP.REOLINK.pak"
+        ],
+        "model_id": 9,
+        "hw_ver_id": 9
+    },
+    "fb20ca12a09c9fad188340bce779ab93e5f959ee851239f7ed5a34099714c6d1": {
+        "info": {
+            "firmware_version_prefix": "v3.0.0",
+            "board_type": "DB_566128M5MP_W",
+            "board_name": "DB_566128M5MP_W",
+            "build_date": "230309",
+            "display_type_info": "Reolink Video Doorbell WiFi",
+            "detail_machine_type": "DB_566128M5MP_W",
+            "type": "IPC",
+            "version_file": "1859_23030900",
+            "os": "Linux",
+            "architecture": "ARM",
+            "kernel_image_name": "Linux-4.19.91",
+            "uboot_version": "U-Boot 2019.04 (Sep 21 2022 - 09:41:21 +0800)",
+            "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2020.02.9-3-g58c1c2e-dirty) 8.4.0",
+            "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+            "linux_banner": "Linux version 4.19.91 (ypy@ubuntu) (gcc version 8.4.0 (Buildroot 2020.02.9-3-g58c1c2e-dirty)) #5 PREEMPT Thu Apr 7 12:25:03 CST 2022",
+            "board": "Novatek NA51089",
+            "board_vendor": "Novatek",
+            "filesystems": [
+                {
+                    "name": "rootfs",
+                    "type": "ubifs"
+                },
+                {
+                    "name": "app",
+                    "type": "ubifs"
+                }
+            ]
+        },
+        "download": [
+            "https://home-cdn.reolink.us/wp-content/uploads/2023/04/030234101680489250.782.zip"
+        ],
+        "model_id": 181,
+        "hw_ver_id": 301
+    },
+    "b874c59f65757060085a9dc6fe1cfddff4161c586784453e0e568b3ed538bf24": {
+        "info": {
+            "firmware_version_prefix": "v3.0.0",
+            "board_type": "DB_566128M5MP_P",
+            "board_name": "DB_566128M5MP_P",
+            "build_date": "230309",
+            "display_type_info": "Reolink Video Doorbell PoE",
+            "detail_machine_type": "DB_566128M5MP_P",
+            "type": "IPC",
+            "version_file": "1859_23030902",
+            "os": "Linux",
+            "architecture": "ARM",
+            "kernel_image_name": "Linux-4.19.91",
+            "uboot_version": "U-Boot 2019.04 (Sep 21 2022 - 09:41:21 +0800)",
+            "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2020.02.9-3-g58c1c2e-dirty) 8.4.0",
+            "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+            "linux_banner": "Linux version 4.19.91 (ypy@ubuntu) (gcc version 8.4.0 (Buildroot 2020.02.9-3-g58c1c2e-dirty)) #5 PREEMPT Thu Apr 7 12:25:03 CST 2022",
+            "board": "Novatek NA51089",
+            "board_vendor": "Novatek",
+            "filesystems": [
+                {
+                    "name": "rootfs",
+                    "type": "ubifs"
+                },
+                {
+                    "name": "app",
+                    "type": "ubifs"
+                }
+            ]
+        },
+        "download": [
+            "https://home-cdn.reolink.us/wp-content/uploads/2023/04/030245401680489940.8505.zip"
+        ],
+        "model_id": 180,
+        "hw_ver_id": 302
+    },
+    "f32445abec1cbde01d57e7d9cf56c0c4b7b18c84c8b921f96e72029bb36b9816": {
+        "info": {
+            "firmware_version_prefix": "v3.0.0",
+            "board_type": "DB_566128M5MP_W",
+            "board_name": "DB_566128M5MP_W",
+            "build_date": "230412",
+            "display_type_info": "Reolink Video Doorbell WiFi",
+            "detail_machine_type": "DB_566128M5MP_W",
+            "type": "IPC",
+            "version_file": "2017_23041200",
+            "os": "Linux",
+            "architecture": "ARM",
+            "kernel_image_name": "Linux-4.19.91",
+            "uboot_version": "U-Boot 2019.04 (Sep 21 2022 - 09:41:21 +0800)",
+            "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2020.02.9-3-g58c1c2e-dirty) 8.4.0",
+            "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+            "linux_banner": "Linux version 4.19.91 (ypy@ubuntu) (gcc version 8.4.0 (Buildroot 2020.02.9-3-g58c1c2e-dirty)) #5 PREEMPT Thu Apr 7 12:25:03 CST 2022",
+            "board": "Novatek NA51089",
+            "board_vendor": "Novatek",
+            "filesystems": [
+                {
+                    "name": "rootfs",
+                    "type": "ubifs"
+                },
+                {
+                    "name": "app",
+                    "type": "ubifs"
+                }
+            ]
+        },
+        "download": [
+            "https://home-cdn.reolink.us/wp-content/uploads/2023/04/121132011681299121.0701.zip"
+        ],
+        "model_id": 181,
+        "hw_ver_id": 301
+    },
+    "7be3a984f75defd8f999325ae6ac0c6c740312fd8e64b87f285f9b550531719c": {
+        "info": {
+            "firmware_version_prefix": "v3.0.0",
+            "board_type": "DB_566128M5MP_P",
+            "board_name": "DB_566128M5MP_P",
+            "build_date": "230412",
+            "display_type_info": "Reolink Video Doorbell PoE",
+            "detail_machine_type": "DB_566128M5MP_P",
+            "type": "IPC",
+            "version_file": "2017_23041202",
+            "os": "Linux",
+            "architecture": "ARM",
+            "kernel_image_name": "Linux-4.19.91",
+            "uboot_version": "U-Boot 2019.04 (Sep 21 2022 - 09:41:21 +0800)",
+            "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2020.02.9-3-g58c1c2e-dirty) 8.4.0",
+            "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+            "linux_banner": "Linux version 4.19.91 (ypy@ubuntu) (gcc version 8.4.0 (Buildroot 2020.02.9-3-g58c1c2e-dirty)) #5 PREEMPT Thu Apr 7 12:25:03 CST 2022",
+            "board": "Novatek NA51089",
+            "board_vendor": "Novatek",
+            "filesystems": [
+                {
+                    "name": "rootfs",
+                    "type": "ubifs"
+                },
+                {
+                    "name": "app",
+                    "type": "ubifs"
+                }
+            ]
+        },
+        "download": [
+            "https://home-cdn.reolink.us/wp-content/uploads/2023/04/121133571681299237.2878.zip"
+        ],
+        "model_id": 180,
+        "hw_ver_id": 302
+    },
+    "13cc3699e8df461da635dd10118b6571c175829b7ab4e1368ca49fab12d63eb1": {
+        "info": {
+            "firmware_version_prefix": "v3.0.0",
+            "board_type": "DB_566128M5MP_W",
+            "board_name": "DB_566128M5MP_W",
+            "build_date": "230413",
+            "display_type_info": "Reolink Video Doorbell WiFi",
+            "detail_machine_type": "DB_566128M5MP_W",
+            "type": "IPC",
+            "version_file": "2033_23041300",
+            "os": "Linux",
+            "architecture": "ARM",
+            "kernel_image_name": "Linux-4.19.91",
+            "uboot_version": "U-Boot 2019.04 (Sep 21 2022 - 09:41:21 +0800)",
+            "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2020.02.9-3-g58c1c2e-dirty) 8.4.0",
+            "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+            "linux_banner": "Linux version 4.19.91 (ypy@ubuntu) (gcc version 8.4.0 (Buildroot 2020.02.9-3-g58c1c2e-dirty)) #5 PREEMPT Thu Apr 7 12:25:03 CST 2022",
+            "board": "Novatek NA51089",
+            "board_vendor": "Novatek",
+            "filesystems": [
+                {
+                    "name": "rootfs",
+                    "type": "ubifs"
+                },
+                {
+                    "name": "app",
+                    "type": "ubifs"
+                }
+            ]
+        },
+        "download": [
+            "https://home-cdn.reolink.us/wp-content/uploads/2023/05/080150541683510654.3453.zip"
+        ],
+        "model_id": 181,
+        "hw_ver_id": 301
+    },
+    "8c8f8ebbbce7e93c4da902c4d3726fa29ccaed63efe45f71a14237a110e38101": {
+        "info": {
+            "firmware_version_prefix": "v3.0.0",
+            "board_type": "DB_566128M5MP_P",
+            "board_name": "DB_566128M5MP_P",
+            "build_date": "230413",
+            "display_type_info": "Reolink Video Doorbell PoE",
+            "detail_machine_type": "DB_566128M5MP_P",
+            "type": "IPC",
+            "version_file": "2033_23041302",
+            "os": "Linux",
+            "architecture": "ARM",
+            "kernel_image_name": "Linux-4.19.91",
+            "uboot_version": "U-Boot 2019.04 (Sep 21 2022 - 09:41:21 +0800)",
+            "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2020.02.9-3-g58c1c2e-dirty) 8.4.0",
+            "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+            "linux_banner": "Linux version 4.19.91 (ypy@ubuntu) (gcc version 8.4.0 (Buildroot 2020.02.9-3-g58c1c2e-dirty)) #5 PREEMPT Thu Apr 7 12:25:03 CST 2022",
+            "board": "Novatek NA51089",
+            "board_vendor": "Novatek",
+            "filesystems": [
+                {
+                    "name": "rootfs",
+                    "type": "ubifs"
+                },
+                {
+                    "name": "app",
+                    "type": "ubifs"
+                }
+            ]
+        },
+        "download": [
+            "https://home-cdn.reolink.us/wp-content/uploads/2023/05/080159231683511163.4286.zip"
+        ],
+        "model_id": 180,
+        "hw_ver_id": 302
+    },
+    "28a39763459a50e4ccc59a8caa68b0eaf3e9f8d39568b979cfa4037509e71cf6": {
+        "info": {
+            "firmware_version_prefix": "v3.1.0",
+            "board_type": "IPC_56064M8MP",
+            "board_name": "IPC_56064M8MP",
+            "build_date": "230625",
+            "display_type_info": "RLC-810A",
+            "detail_machine_type": "IPC_56064M8MP",
+            "type": "IPC",
+            "version_file": "2368_23062505",
+            "os": "Linux",
+            "architecture": "ARM",
+            "kernel_image_name": "Linux-4.19.91",
+            "uboot_version": "U-Boot 2019.04 (Dec 27 2022 - 16:21:56 +0800)",
+            "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2020.02.9-3-g58c1c2e-dirty) 8.4.0",
+            "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+            "linux_banner": "Linux version 4.19.91 (zyc@ubuntu) (gcc version 8.4.0 (Buildroot 2020.02.9-3-g58c1c2e-dirty)) #1 PREEMPT Thu Mar 9 19:16:01 CST 2023",
+            "board": "Novatek NA51089",
+            "board_vendor": "Novatek",
+            "filesystems": [
+                {
+                    "name": "rootfs",
+                    "type": "squashfs"
+                },
+                {
+                    "name": "app",
+                    "type": "squashfs"
+                }
+            ]
+        },
+        "download": [
+            "https://home-cdn.reolink.us/wp-content/uploads/2023/08/110422361691727756.2053.zip"
+        ],
+        "model_id": 9,
+        "hw_ver_id": 309
+    },
+    "4fc6f7691a5c3a5032493314e08ae62816d528c740ca50c988c3c63b5f03f541": {
+        "info": {
+            "firmware_version_prefix": "v3.0.0",
+            "board_type": "IPC_51316M",
+            "board_name": "IPC_51316M",
+            "build_date": "230620",
+            "display_type_info": "RLC-410",
+            "detail_machine_type": "IPC_51316M",
+            "type": "IPC",
+            "version_file": "2356_23062000",
+            "os": "Linux",
+            "architecture": "MIPS",
+            "kernel_image_name": "Linux-4.1.0",
+            "uboot_version": "U-Boot 2014.07 (Aug 27 2020 - 18:10:33)",
+            "uboot_compiler": "mipsel-24kec-linux-uclibc-gcc.br_real (Buildroot 2015.11.1-00003-gfd1edb1) 4.9.3",
+            "uboot_linker": "GNU ld (GNU Binutils) 2.24",
+            "linux_banner": "Linux version 4.1.0 (lwy@ubuntu) (gcc version 4.9.3 (Buildroot 2015.11.1-00003-gfd1edb1) ) #1 PREEMPT Thu Dec 27 17:50:56 CST 2018",
+            "board": "Novatek NA51023 evaluation board",
+            "board_vendor": "Novatek",
+            "filesystems": [
+                {
+                    "name": "fs",
+                    "type": "squashfs"
+                }
+            ]
+        },
+        "download": [
+            "https://home-cdn.reolink.us/wp-content/uploads/2023/10/071005051696673105.1104.zip"
+        ],
+        "model_id": 52,
+        "hw_ver_id": 79
+    },
+    "4162ccfabfbf09495b8f9b9330ac1a082cfdbf7a9d318bbd8b809c0a7019033e": {
+        "info": {
+            "firmware_version_prefix": "v3.0.0",
+            "board_type": "DB_566128M5MP_P",
+            "board_name": "DB_566128M5MP_P",
+            "build_date": "230807",
+            "display_type_info": "Reolink Video Doorbell PoE",
+            "detail_machine_type": "DB_566128M5MP_P",
+            "type": "IPC",
+            "version_file": "2555_23080702",
+            "os": "Linux",
+            "architecture": "ARM",
+            "kernel_image_name": "Linux-4.19.91",
+            "uboot_version": "U-Boot 2019.04 (Jul 12 2023 - 18:51:45 +0800)",
+            "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2020.02.9-3-g58c1c2e-dirty) 8.4.0",
+            "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+            "linux_banner": "Linux version 4.19.91 (cys@ubuntu) (gcc version 8.4.0 (Buildroot 2020.02.9-3-g58c1c2e-dirty)) #1 PREEMPT Wed Aug 2 18:28:28 CST 2023",
+            "board": "Novatek NA51089",
+            "board_vendor": "Novatek",
+            "filesystems": [
+                {
+                    "name": "rootfs",
+                    "type": "ubifs"
+                },
+                {
+                    "name": "app",
+                    "type": "ubifs"
+                }
+            ]
+        },
+        "download": [
+            "https://drive.google.com/uc?id=1x0OEBOnMWt3zCDu32Ncux5bYHBUUkMh9&confirm=t"
+        ],
+        "model_id": 180,
+        "hw_ver_id": 302,
+        "beta": true
+    },
+    "78bb10624869875cdaa95aa73d1209be7fecc28cd11d05a802ad354ea823aa02": {
+        "info": {
+            "firmware_version_prefix": "v3.0.0",
+            "board_type": "DB_566128M5MP_W",
+            "board_name": "DB_566128M5MP_W",
+            "build_date": "230807",
+            "display_type_info": "Reolink Video Doorbell WiFi",
+            "detail_machine_type": "DB_566128M5MP_W",
+            "type": "IPC",
+            "version_file": "2555_23080700",
+            "os": "Linux",
+            "architecture": "ARM",
+            "kernel_image_name": "Linux-4.19.91",
+            "uboot_version": "U-Boot 2019.04 (Jul 12 2023 - 18:51:45 +0800)",
+            "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2020.02.9-3-g58c1c2e-dirty) 8.4.0",
+            "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+            "linux_banner": "Linux version 4.19.91 (cys@ubuntu) (gcc version 8.4.0 (Buildroot 2020.02.9-3-g58c1c2e-dirty)) #1 PREEMPT Wed Aug 2 18:28:28 CST 2023",
+            "board": "Novatek NA51089",
+            "board_vendor": "Novatek",
+            "filesystems": [
+                {
+                    "name": "rootfs",
+                    "type": "ubifs"
+                },
+                {
+                    "name": "app",
+                    "type": "ubifs"
+                }
+            ]
+        },
+        "download": [
+            "https://drive.google.com/uc?id=1wPLWWGnRJGuGb360V7C1MCavP-Zv0l7L&confirm=t"
+        ],
+        "model_id": 181,
+        "hw_ver_id": 301,
+        "beta": true
+    },
+    "a43bada970f3e4befd276544bddc439b7fe41352d2a4b8702de28fda1e2e2a0f": {
+        "info": {
+            "firmware_version_prefix": "v3.1.0",
+            "board_type": "IPC_523128M8MP",
+            "board_name": "IPC_523128M8MP",
+            "build_date": "220415",
+            "display_type_info": "RLC-810A",
+            "detail_machine_type": "IPC_523128M8MP",
+            "type": "IPC",
+            "version_file": "956_24022103",
+            "os": "Linux",
+            "architecture": "ARM",
+            "kernel_image_name": "Linux-4.19.91",
+            "uboot_version": "U-Boot 2019.04 (Oct 11 2021 - 12:40:43 +0800)",
+            "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2019.05.2) 6.5.0",
+            "uboot_linker": "GNU ld (GNU Binutils) 2.31.1",
+            "linux_banner": "Linux version 4.19.91 (mdq@ubuntu) (gcc version 6.5.0 (Buildroot 2019.05.2)) #1 SMP PREEMPT Sat Jun 19 14:27:40 CST 2021",
+            "board": "Novatek NA51055",
+            "board_vendor": "Novatek",
+            "filesystems": [
+                {
+                    "name": "rootfs",
+                    "type": "ubifs"
+                },
+                {
+                    "name": "app",
+                    "type": "ubifs"
+                }
+            ]
+        },
+        "download": [
+            "https://home-cdn.reolink.us/wp-content/uploads/2024/02/230717391708672659.7048.zip"
+        ],
+        "model_id": 9,
+        "hw_ver_id": 9
+    },
+    "f59e5609b77fce4a926849a48f059f09509c7e11b811329825c04f1259aa02f9": {
+        "info": {
+            "firmware_version_prefix": "v3.0.0",
+            "board_type": "DB_566128M5MP_W",
+            "board_name": "DB_566128M5MP_W",
+            "build_date": "240126",
+            "display_type_info": "Reolink Video Doorbell WiFi",
+            "detail_machine_type": "DB_566128M5MP_W",
+            "type": "IPC",
+            "version_file": "3215_2401262240",
+            "os": "Linux",
+            "architecture": "ARM",
+            "kernel_image_name": "Linux-4.19.91",
+            "uboot_version": "U-Boot 2019.04 (Nov 30 2023 - 10:40:55 +0800)",
+            "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2020.02.9-3-g58c1c2e-dirty) 8.4.0",
+            "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+            "linux_banner": "Linux version 4.19.91 (cys@ubuntu) (gcc version 8.4.0 (Buildroot 2020.02.9-3-g58c1c2e-dirty)) #1 PREEMPT Wed Aug 2 18:28:28 CST 2023",
+            "board": "Novatek NA51089",
+            "board_vendor": "Novatek",
+            "filesystems": [
+                {
+                    "name": "rootfs",
+                    "type": "ubifs"
+                },
+                {
+                    "name": "app",
+                    "type": "ubifs"
+                }
+            ]
+        },
+        "download": [
+            "https://home-cdn.reolink.us/wp-content/uploads/2024/03/010156211709258181.3009.zip"
+        ],
+        "model_id": 181,
+        "hw_ver_id": 301
+    },
+    "b87fb00eca26b2e5873036ba0ec7021d07af2d03ffb33bb6379bc2418fbb93c4": {
+        "info": {
+            "firmware_version_prefix": "v3.0.0",
+            "board_type": "DB_566128M5MP_P",
+            "board_name": "DB_566128M5MP_P",
+            "build_date": "240126",
+            "display_type_info": "Reolink Video Doorbell PoE",
+            "detail_machine_type": "DB_566128M5MP_P",
+            "type": "IPC",
+            "version_file": "3215_2401262241",
+            "os": "Linux",
+            "architecture": "ARM",
+            "kernel_image_name": "Linux-4.19.91",
+            "uboot_version": "U-Boot 2019.04 (Nov 30 2023 - 10:40:55 +0800)",
+            "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2020.02.9-3-g58c1c2e-dirty) 8.4.0",
+            "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+            "linux_banner": "Linux version 4.19.91 (cys@ubuntu) (gcc version 8.4.0 (Buildroot 2020.02.9-3-g58c1c2e-dirty)) #1 PREEMPT Wed Aug 2 18:28:28 CST 2023",
+            "board": "Novatek NA51089",
+            "board_vendor": "Novatek",
+            "filesystems": [
+                {
+                    "name": "rootfs",
+                    "type": "ubifs"
+                },
+                {
+                    "name": "app",
+                    "type": "ubifs"
+                }
+            ]
+        },
+        "download": [
+            "https://home-cdn.reolink.us/wp-content/uploads/2024/03/010147201709257640.8976.zip"
+        ],
+        "model_id": 180,
+        "hw_ver_id": 302
+    },
+    "78e01ee35dc315631eb26aecf57b4e853eb53d1b10b8fa3baa2b521717a6f343": {
+        "info": {
+            "firmware_version_prefix": "v3.0.0",
+            "board_type": "DB_566128M5MP_W",
+            "board_name": "DB_566128M5MP_W",
+            "build_date": "240731",
+            "display_type_info": "Reolink Video Doorbell WiFi",
+            "detail_machine_type": "DB_566128M5MP_W",
+            "type": "IPC",
+            "version_file": "3308_2407315182",
+            "os": "Linux",
+            "architecture": "ARM",
+            "kernel_image_name": "Linux-4.19.91",
+            "uboot_version": "U-Boot 2019.04 (Nov 30 2023 - 10:40:55 +0800)",
+            "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2020.02.9-3-g58c1c2e-dirty) 8.4.0",
+            "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+            "linux_banner": "Linux version 4.19.91 (cys@ubuntu) (gcc version 8.4.0 (Buildroot 2020.02.9-3-g58c1c2e-dirty)) #1 PREEMPT Wed Aug 2 18:28:28 CST 2023",
+            "board": "Novatek NA51089",
+            "board_vendor": "Novatek",
+            "filesystems": [
+                {
+                    "name": "rootfs",
+                    "type": "ubifs"
+                },
+                {
+                    "name": "app",
+                    "type": "ubifs"
+                }
+            ]
+        },
+        "download": [
+            "https://home-cdn.reolink.us/wp-content/uploads/2024/08/190849391724057379.4602.zip"
+        ],
+        "model_id": 181,
+        "hw_ver_id": 301
+    },
+    "7afd9f380bddc9f4e2da70bea25b8433480fdc7dcc2ca18f58554de39dd88a81": {
+        "info": {
+            "firmware_version_prefix": "v3.0.0",
+            "board_type": "DB_566128M5MP_P",
+            "board_name": "DB_566128M5MP_P",
+            "build_date": "240731",
+            "display_type_info": "Reolink Video Doorbell PoE",
+            "detail_machine_type": "DB_566128M5MP_P",
+            "type": "IPC",
+            "version_file": "3308_2407315183",
+            "os": "Linux",
+            "architecture": "ARM",
+            "kernel_image_name": "Linux-4.19.91",
+            "uboot_version": "U-Boot 2019.04 (Nov 30 2023 - 10:40:55 +0800)",
+            "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2020.02.9-3-g58c1c2e-dirty) 8.4.0",
+            "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+            "linux_banner": "Linux version 4.19.91 (cys@ubuntu) (gcc version 8.4.0 (Buildroot 2020.02.9-3-g58c1c2e-dirty)) #1 PREEMPT Wed Aug 2 18:28:28 CST 2023",
+            "board": "Novatek NA51089",
+            "board_vendor": "Novatek",
+            "filesystems": [
+                {
+                    "name": "rootfs",
+                    "type": "ubifs"
+                },
+                {
+                    "name": "app",
+                    "type": "ubifs"
+                }
+            ]
+        },
+        "download": [
+            "https://home-cdn.reolink.us/wp-content/uploads/2024/08/190851131724057473.93.zip"
+        ],
+        "model_id": 180,
+        "hw_ver_id": 302
+    },
+    "c69333c8b5783bf0702e609151c346dc7c91003261b42d613f75b245f3be3fa3": {
+        "info": {
+            "firmware_version_prefix": "v3.1.0",
+            "board_type": "IPC_56064M8MP",
+            "board_name": "IPC_56064M8MP",
+            "build_date": "240913",
+            "display_type_info": "RLC-810A",
+            "detail_machine_type": "IPC_56064M8MP",
+            "type": "IPC",
+            "version_file": "4054_2409131251",
+            "os": "Linux",
+            "architecture": "ARM",
+            "kernel_image_name": "Linux-4.19.91",
+            "uboot_version": "U-Boot 2019.04 (Sep 06 2024 - 19:12:44 +0800)",
+            "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2020.02.9-3-g58c1c2e-dirty) 8.4.0",
+            "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+            "linux_banner": "Linux version 4.19.91 (zyc@ubuntu) (gcc version 8.4.0 (Buildroot 2020.02.9-3-g58c1c2e-dirty)) #1 PREEMPT Tue Jul 11 16:08:50 CST 2023",
+            "board": "Novatek NA51089",
+            "board_vendor": "Novatek",
+            "filesystems": [
+                {
+                    "name": "rootfs",
+                    "type": "squashfs"
+                },
+                {
+                    "name": "app",
+                    "type": "squashfs"
+                }
+            ]
+        },
+        "download": [
+            "https://home-cdn.reolink.us/wp-content/uploads/2024/09/200232001726799520.6853.zip"
+        ],
+        "model_id": 9,
+        "hw_ver_id": 309
+    },
+    "daa19d516253457724061e28ed32ddc579804e567f04e4186a5ed25a9c6ade6d": {
+        "info": {
+            "firmware_version_prefix": "v3.0.0",
+            "board_type": "DB_566128M5MP_W",
+            "board_name": "DB_566128M5MP_W",
+            "build_date": "241011",
+            "display_type_info": "Reolink Video Doorbell WiFi",
+            "detail_machine_type": "DB_566128M5MP_W",
+            "type": "IPC",
+            "version_file": "4110_2410111119",
+            "os": "Linux",
+            "architecture": "ARM",
+            "kernel_image_name": "Linux-4.19.91",
+            "uboot_version": "U-Boot 2019.04 (Nov 30 2023 - 10:40:55 +0800)",
+            "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2020.02.9-3-g58c1c2e-dirty) 8.4.0",
+            "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+            "linux_banner": "Linux version 4.19.91 (cys@ubuntu) (gcc version 8.4.0 (Buildroot 2020.02.9-3-g58c1c2e-dirty)) #1 PREEMPT Wed Aug 2 18:28:28 CST 2023",
+            "board": "Novatek NA51089",
+            "board_vendor": "Novatek",
+            "filesystems": [
+                {
+                    "name": "rootfs",
+                    "type": "ubifs"
+                },
+                {
+                    "name": "app",
+                    "type": "ubifs"
+                }
+            ]
+        },
+        "download": [
+            "https://home-cdn.reolink.us/wp-content/uploads/2024/10/181041501729248110.7924.zip"
+        ],
+        "model_id": 181,
+        "hw_ver_id": 301
+    },
+    "e15b6283d8a8d6795cb6333f13ec88f36838e359fc68a07bcf3eede492a902ce": {
+        "info": {
+            "firmware_version_prefix": "v3.0.0",
+            "board_type": "DB_566128M5MP_P",
+            "board_name": "DB_566128M5MP_P",
+            "build_date": "241011",
+            "display_type_info": "Reolink Video Doorbell PoE",
+            "detail_machine_type": "DB_566128M5MP_P",
+            "type": "IPC",
+            "version_file": "4110_2410111120",
+            "os": "Linux",
+            "architecture": "ARM",
+            "kernel_image_name": "Linux-4.19.91",
+            "uboot_version": "U-Boot 2019.04 (Nov 30 2023 - 10:40:55 +0800)",
+            "uboot_compiler": "arm-ca9-linux-gnueabihf-gcc.br_real (Buildroot 2020.02.9-3-g58c1c2e-dirty) 8.4.0",
+            "uboot_linker": "GNU ld (GNU Binutils) 2.33.1",
+            "linux_banner": "Linux version 4.19.91 (cys@ubuntu) (gcc version 8.4.0 (Buildroot 2020.02.9-3-g58c1c2e-dirty)) #1 PREEMPT Wed Aug 2 18:28:28 CST 2023",
+            "board": "Novatek NA51089",
+            "board_vendor": "Novatek",
+            "filesystems": [
+                {
+                    "name": "rootfs",
+                    "type": "ubifs"
+                },
+                {
+                    "name": "app",
+                    "type": "ubifs"
+                }
+            ]
+        },
+        "download": [
+            "https://home-cdn.reolink.us/wp-content/uploads/2024/10/181040331729248033.5364.zip"
+        ],
+        "model_id": 180,
+        "hw_ver_id": 302
+    }
+}

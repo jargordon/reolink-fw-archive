@@ -4,6 +4,7 @@ import argparse
 import asyncio
 import hashlib
 import logging
+import json
 from functools import partial
 from pathlib import Path
 from urllib.parse import urlparse
@@ -51,6 +52,9 @@ async def fetch(session, url):
     async with session.get(url) as resp:
         return await resp.json(content_type=None)
 
+async def fetch_local(filepath):
+    with open (filepath, 'r') as file:
+    	return json.load(file)
 
 def find_extension(response):
     url = str(response.url)
@@ -200,7 +204,7 @@ async def main():
     conn_drive = aiohttp.TCPConnector(limit=args.max_connections_gdrive)
     async with (aiohttp.ClientSession(connector=conn) as session,
                 aiohttp.ClientSession(connector=conn_drive) as session_drive):
-        pak_info = await fetch(session, "https://raw.githubusercontent.com/AT0myks/reolink-fw-archive/main/pak_info.json")
+        pak_info = await fetch_local("pak_output.json")
         devices = await fetch(session, "https://raw.githubusercontent.com/AT0myks/reolink-fw-archive/main/devices.json")
         sessions = [session, session_drive]
         tasks = [asyncio.create_task(download(sessions, devices, sha256, info, args.directory, args.force, args.skip)) for sha256, info in pak_info.items()]

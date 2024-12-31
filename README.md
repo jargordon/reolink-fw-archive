@@ -1,3 +1,9 @@
+# Local Changes
+
+* Need to ensure that you download the latest pak_info.json file following a release.
+* Added pak_info_condensed.py. Add in the device ID's into this file that we are interested in. Then run this file. 
+* Run the download.py file to download any new firmwares for our interested devices. Download.py amended to lookup the local pak_output.json file. 
+
 # Reolink firmware archive
 
 * [How it works](#how-it-works)
